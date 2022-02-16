@@ -5,4 +5,5 @@ AIO Launcher page for bug reports and suggestions. Just go to the Issues tab at 
 * [Telegram Channel](https://t.me/s/aio_launcher)
 * [Plugins](http://execbit.ru/aiolauncher/plugins.html)
 * [Scripts](https://github.com/zobnin/aiolauncher_scripts)
+* [Support me on Patreon](https://patreon.com/zobnin)
 
